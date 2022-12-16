@@ -7,27 +7,27 @@
 
 ### Ход работы:
 
-![Инициализация базы данных для всех платформ](![image](https://user-images.githubusercontent.com/114649232/208089155-1a7069c1-25ec-44ad-a118-800758e6dcbd.png))
+![Инициализация базы данных для всех платформ](https://user-images.githubusercontent.com/114649232/208089155-1a7069c1-25ec-44ad-a118-800758e6dcbd.png)
 Инициализация базы данных для всех платформ
 
-![Класс хранящий процедуры создания базы данных](![image](https://user-images.githubusercontent.com/114649232/208089222-93106ab2-435d-4d63-94a6-76cf497da9c8.png))
+![Класс хранящий процедуры создания базы данных](https://user-images.githubusercontent.com/114649232/208089222-93106ab2-435d-4d63-94a6-76cf497da9c8.png)
 Класс хранящий процедуры создания базы данных
 
-![Метод создания и обновление базы данных](![image](https://user-images.githubusercontent.com/114649232/208089254-9d2b3c9a-fb15-457e-b4f5-96523e51f8bf.png))
+![Метод создания и обновление базы данных](https://user-images.githubusercontent.com/114649232/208089254-9d2b3c9a-fb15-457e-b4f5-96523e51f8bf.png)
 Метод создания и обновление базы данных
 
-![Метод инициализации первичных данных в необходимые таблицы](![image](https://user-images.githubusercontent.com/114649232/208089311-7ebcf8a2-8f79-48bb-912f-4bdb9b79c43f.png))
+![Метод инициализации первичных данных в необходимые таблицы](https://user-images.githubusercontent.com/114649232/208089311-7ebcf8a2-8f79-48bb-912f-4bdb9b79c43f.png)
 Метод инициализации первичных данных в необходимые таблицы
 
-![Метод удаления базы данных](![image](https://user-images.githubusercontent.com/114649232/208089355-a219faa0-51cd-4f0b-b63f-fc6fbf02713f.png))
+![Метод удаления базы данных](https://user-images.githubusercontent.com/114649232/208089355-a219faa0-51cd-4f0b-b63f-fc6fbf02713f.png)
 Метод удаления базы данных
 
-![Пример модели](![image](https://user-images.githubusercontent.com/114649232/208089387-2d139441-a99b-44ae-8d17-46ebda43e79f.png))
+![Пример модели](https://user-images.githubusercontent.com/114649232/208089387-2d139441-a99b-44ae-8d17-46ebda43e79f.png)
 Пример модели
 
-![Пример модели](![image](https://user-images.githubusercontent.com/114649232/208089444-84f31aa4-b289-43a8-b908-e828c4bff6c6.png))
+![Пример модели](https://user-images.githubusercontent.com/114649232/208089444-84f31aa4-b289-43a8-b908-e828c4bff6c6.png)
 Пример модели
-![Результат работы программы](![image](https://user-images.githubusercontent.com/114649232/208089497-9536bded-9bfa-4d59-9360-2b9226463e63.png))
+![Результат работы программы](https://user-images.githubusercontent.com/114649232/208089497-9536bded-9bfa-4d59-9360-2b9226463e63.png)
 Результат работы программы
 
 Вывод: реализовали класс, который отвечает за базу данных и реализовали функции инициализации базы данных на всех платформах, создания, обновления, заполнения таблиц и удаления базы данных. 
